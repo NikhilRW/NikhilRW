@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nikhil Wankhede</h1>
 <h3 align="center">A Full Stack Web Developer from India</h3>
 
-<h3 align="left">Connect with me: <a href="www.linkedin.com/in/nikhil-wankhede-31ab552b0">Click Here</a></h3>
+<h3 align="left">Connect with me: <a href="https://www.linkedin.com/in/nikhil-wankhede-31ab552b0">Click Here</a></h3>
 <p align="left">
 </p>
 
