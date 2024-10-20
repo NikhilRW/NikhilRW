@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on TodoPro App<br>🌱 I’m currently learning Django,MAD
+🔭 I’m currently working on learnex<br>🌱 I’m currently learning react-native
 
 
 ## 🌐 Socials:
