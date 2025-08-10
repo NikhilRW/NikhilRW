@@ -1,6 +1,7 @@
 # 💫 About Me:
 
-🔭 I’m currently working on AI Push Up Counter.<br>🌱 I’m currently learning how to train AI Model and deploy it on phone locally while improving the user privacy.
+Hey Devs I Am Nikhil, A React Native Developer Who Develops App That Provide Values To User. <br>🌱 I’m currently building an Pushup Counter App Aka Push Pro Using That You Can Count And In The Future Releases Track Your Pushup Seamlessly.
+Thank You Reading Whoever There Is Sitting Behind Screen.
 
 ## 🌐 Socials:
 
